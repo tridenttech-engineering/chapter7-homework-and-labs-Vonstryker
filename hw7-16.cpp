@@ -22,5 +22,6 @@ int main()
     cout << setprecision(2);
     cout << "$" << tip << endl;
     rate += 0.05;
+  }
 	return 0;
 }	//end of main function
