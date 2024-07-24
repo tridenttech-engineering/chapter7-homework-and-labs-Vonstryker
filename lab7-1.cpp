@@ -11,6 +11,8 @@ int main()
     int day = 0'
     int totalTexts = 0;
     int dailyTexts = 0.0;
+    double average = 0.0;
+    
     for (day = 1; day < 8; day += 1)
 {
     cout << "how many test messages did you send on day "
